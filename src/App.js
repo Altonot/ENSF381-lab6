@@ -2,7 +2,7 @@ import React from 'react';
 import EngineeringTopics from './Engineeringtopics'; // Import the EngineeringTopics component
 import './App.css';
 
-function exercise2() {
+function exercise3() {
   return (
     <div className="App">
       <header className="App-header">
@@ -13,4 +13,4 @@ function exercise2() {
   );
 }
 
-export default exercise2;
+export default exercise3;
