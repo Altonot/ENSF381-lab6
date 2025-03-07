@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function exercise1() {
   const date = new Date()
   let currentYear = date.getFullYear()
   let isLoggedIn = true;
